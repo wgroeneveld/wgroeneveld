@@ -10,3 +10,7 @@ Looking for cool stuff to _read_?
 Or technical stuff to _do_ instead? 
 - :sparkler: repo `wgroeneveld/gba-sprite-engine` or `wgroeneveld/gba-bitmap-engine` to write GBA games in C++
 - various other archived repos to discover yourself!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y232TK0)
+
+Thanks!
