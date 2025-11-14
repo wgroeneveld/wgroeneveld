@@ -1,6 +1,10 @@
-## Hi, and Bye! 👋
+## Moved To Codeberg.org
 
-All repositories are moved to https://codeberg.org/wouterg/
+**Find my work at**: https://codeberg.org/wouterg/
+
+---
+
+All repositories except for forks that get contributed to GitHub projects are moved to Codeberg.
 
 Why? That's why: https://giveupgithub.org/
 
