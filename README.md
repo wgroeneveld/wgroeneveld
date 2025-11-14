@@ -1,9 +1,8 @@
 ## Hi, and Bye! 👋
 
-https://giveupgithub.org/
+All repositories are moved to https://codeberg.org/wouterg/
 
-If you're looking for a repository previously located at https://github.com/wgroeneveld/ - no worries, please go to https://git.brainbaking.com/ instead! 
+Why? That's why: https://giveupgithub.org/
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y232TK0)
+See also: https://brainbaking.com/post/2022/07/give-up-github/ and https://brainbaking.com/post/2025/11/migrating-from-gitea-to-codeberg/.
 
-Thanks!
